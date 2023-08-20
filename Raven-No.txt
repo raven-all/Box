@@ -1,9 +1,9 @@
 {"urls":[
 
-{"name":"🦍乌鸦不太黑","url":"https://jihulab.com/raven-ali/box/-/raw/main/Raven-Box/Raven-Dc.txt"},
-{"name":"😼阿里强无敌","url":"https://jihulab.com/raven-ali/box/-/raw/main/Raven-Box/Raven-ali.txt"},
-{"name":"🏵️学习无极限","url":"https://jihulab.com/raven-ali/box/-/raw/main/Raven-Box/Raven-JY.txt"},
-{"name":"☄️手机磁力站","url":"https://jihulab.com/raven-ali/box/-/raw/main/Raven-Box/Raven-Sj.txt"},
-{"name":"🌕一百条线路","url":"https://jihulab.com/raven-ali/box/-/raw/main/Raven-Box/Raven-100.txt"}
+{"name":"🦍乌鸦不太黑","url":"https://raw.githubusercontent.com/raven-all/Box/main/Raven-DC.txt"},
+{"name":"😼阿里强无敌","url":"https://raw.githubusercontent.com/raven-all/Box/main/Raven-ali.txt"},
+{"name":"🏵️学习无极限","url":"https://raw.githubusercontent.com/raven-all/Box/main/Raven-JY.txt"},
+{"name":"☄️手机磁力站","url":"https://raw.githubusercontent.com/raven-all/Box/main/Raven-Sj.txt"},
+{"name":"🌕一百条线路","url":"https://raw.githubusercontent.com/raven-all/Box/main/Raven-100.txt"}
 ]
 }
