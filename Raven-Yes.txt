@@ -2,7 +2,7 @@
 
 "storeHouse": [
 
-{"sourceName": "😎乌鸦不太黑","sourceUrl": "https://jihulab.com/raven-ali/box/-/raw/main/Raven-Box/Raven-No.txt"}
+{"sourceName": "😎乌鸦不太黑","sourceUrl": "https://raw.githubusercontent.com/raven-all/Box/main/Raven-No.txt"}
 
 
 ]
